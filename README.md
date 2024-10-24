@@ -29,7 +29,7 @@ This is a healthcare application that provides patient management and appointmen
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<YOUR-GITHUB-USERNAME>/healthcare-app.git
+   git clone https://github.com/jyoti-ranj/healthcare-app.git
    cd healthcare-app
 
 2. Navigate to the infrastructure directory and run the following commands to initialize Terraform:
