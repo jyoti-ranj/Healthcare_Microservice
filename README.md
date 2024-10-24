@@ -59,10 +59,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-### Tips for Customization:
-- **Replace `<YOUR-GITHUB-USERNAME>`** with your actual GitHub username.
-- Add any additional sections that may be relevant, such as specific API documentation, examples of usage, or troubleshooting tips.
-
-Feel free to adjust the wording, add images, or include links as necessary to better represent your project!
-
 
