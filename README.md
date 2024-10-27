@@ -40,14 +40,17 @@ This is a healthcare application that provides patient management and appointmen
 3. Build and run the Docker containers for both services:
 
    ```bash
-    `cd patient-service`
-   `docker build -t patient-service `
-   `docker run -p 3000:3000 patient-service`
+   cd patient-service
+   
+   docker build -t patient-service
+    
+   docker run -p 3000:3000 patient-service
 
-   `cd ../appointment-service`
-   `docker build -t appointment-service .`
+   cd ../appointment-service
+   
+   docker build -t appointment-service .
   
-  `docker run -p 3001:3001 appointment-service`
+   docker run -p 3001:3001 appointment-service
 
 4. Access the services via:
 
